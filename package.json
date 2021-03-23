@@ -1,0 +1,14 @@
+{
+  "name": "node-mongo-milstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
